@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node scripts/generate-og-image.mjs)",
+      "Bash(node scripts/generate-og-image.cjs)",
+      "Bash(node scripts/generate-og-image-native.cjs)",
+      "Bash(npx next *)",
+      "mcp__magic__21st_magic_component_builder",
+      "Bash(curl -s http://localhost:3002)",
+      "Bash(curl -s http://localhost:3001)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000)",
+      "Bash(node -e \"require\\('playwright'\\)\")",
+      "Bash(npm install *)",
+      "Bash(node -e ' *)",
+      "Bash(node *)",
+      "Bash(curl -s \"http://localhost:3000/_next/static/css/app/layout.css\")",
+      "Bash(curl -s -I \"http://localhost:3000/_next/static/css/app/layout.css?v=1781516804372\")",
+      "Bash(lsof -ti:3000)",
+      "Bash(xargs kill -9)",
+      "Bash(npm run *)",
+      "Bash(echo \"PID: $!\")",
+      "Bash(npx tsc *)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3003/)",
+      "Bash(grep -E \"\\(warehouse-management$|route-optimization|inventory-control|fleet-management|driver-mobile-app|ai-forecasting|about|contact$|book-a-demo\\)\")",
+      "Bash(fuser -k 3003/tcp)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3003/book-a-demo)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\khama\\\\Downloads\\\\Omniwtms.com-main \\(1\\)\\\\Omniwtms.com-main\" -Recurse -Filter \"page.tsx\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Head -50)",
+      "Bash(xargs grep -l \"max-w-3xl\\\\\">\")",
+      "Bash(xargs grep -l \"hero\\\\|py-24\\\\|py-20\")",
+      "Bash(xargs grep -l \"DashboardLayout\\\\|dashboard.*layout\\\\|sidebar\")",
+      "Bash(xargs grep -l \"sidebar\\\\|Sidebar\\\\|nav.*dashboard\\\\|DashboardNav\")",
+      "Bash(xargs grep -l \"3d\\\\|3D\\\\|three\\\\|Three\\\\|visualization\\\\|Visualization\\\\|warehouse.*visual\\\\|visual.*warehouse\")",
+      "Bash(git init *)",
+      "Bash(git remote *)",
+      "Bash(git fetch *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)"
+    ]
+  }
+}
