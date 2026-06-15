@@ -14,7 +14,7 @@ export default function FAQSection() {
     {
       question: "Is OmniWTMS right for small businesses?",
       answer:
-        "Absolutely! OmniWTMS is designed to scale with your business. Our Starter plan is specifically tailored for small businesses with 1-5 vehicles, while offering all the core features needed to streamline your operations. As your business grows, our platform grows with you.",
+        "Absolutely! OmniWTMS is designed to scale with your business. Our Growth plan is specifically tailored for small businesses with 1-5 vehicles, while offering all the core features needed to streamline your operations. As your business grows, upgrade to Pro or Enterprise.",
     },
     {
       question:

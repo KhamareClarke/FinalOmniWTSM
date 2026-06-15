@@ -10,7 +10,7 @@ import FAQSection from "@/components/home/FAQSection";
 import CookieConsent from "@/components/CookieConsent";
 
 const faqItems = [
-  { q: "Is there a setup fee or long-term contract?", a: "No setup fees, no long-term contracts. Start from £599/month and cancel anytime with 30 days notice." },
+  { q: "Is there a setup fee or long-term contract?", a: "There is a one-time setup fee based on your business size: £299 for small operations (1 warehouse), £699 for medium (2–3 warehouses), and £2,500 for 3PL/Enterprise. This covers onboarding, data migration, courier integrations, and system configuration. No long-term contracts — cancel anytime with 30 days notice." },
   { q: "What support is included?", a: "All plans include unlimited UK-based support by phone, email, and live chat, 24 hours a day, 7 days a week." },
   { q: "Can I migrate from another WMS?", a: "Yes, we provide free data migration and onboarding assistance from your current WMS or spreadsheet-based system. Most migrations complete within the 48-hour setup window." },
   { q: "Are all features included in every plan?", a: "Yes, every plan includes all core WMS and TMS features. Optional add-ons (such as additional warehouses or API integrations) are available at transparent pricing." },

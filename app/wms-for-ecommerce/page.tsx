@@ -63,7 +63,7 @@ export default function WmsForEcommercePage() {
     "applicationCategory": "BusinessApplication",
     "description": "Warehouse management system for UK e-commerce businesses. Integrates with Shopify, WooCommerce, and Amazon.",
     "url": "https://omniwtms.com/wms-for-ecommerce",
-    "offers": { "@type": "Offer", "price": "599", "priceCurrency": "GBP", "priceValidUntil": "2026-12-31" },
+    "offers": { "@type": "Offer", "price": "349", "priceCurrency": "GBP", "priceValidUntil": "2026-12-31" },
     "featureList": ["Shopify integration", "WooCommerce integration", "Amazon integration", "Barcode scanning", "Returns management", "Same-day fulfilment"],
     "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "250" }
   };

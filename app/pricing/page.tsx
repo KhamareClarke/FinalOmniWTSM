@@ -28,46 +28,46 @@ const pricingSchema = {
   "offers": [
     {
       "@type": "Offer",
-      "name": "OmniWTMS Starter",
-      "price": "599",
+      "name": "OmniWTMS Growth",
+      "price": "349",
       "priceCurrency": "GBP",
       "priceValidUntil": "2026-12-31",
       "availability": "https://schema.org/InStock",
       "url": "https://omniwtms.com/pricing",
       "priceSpecification": {
         "@type": "UnitPriceSpecification",
-        "price": "599",
+        "price": "349",
         "priceCurrency": "GBP",
         "unitText": "MONTH",
         "billingDuration": 1,
         "billingIncrement": 1
       },
-      "description": "Full WMS & TMS for growing logistics businesses. All core features included, UK-based support, 48-hour setup."
+      "description": "Full WMS & TMS for small UK warehouses and courier firms. Up to 1,000 deliveries/month, 5 users, 1 warehouse, 50GB storage. One-time £199 setup fee."
     },
     {
       "@type": "Offer",
-      "name": "OmniWTMS Growth",
-      "price": "999",
+      "name": "OmniWTMS Pro",
+      "price": "699",
       "priceCurrency": "GBP",
       "priceValidUntil": "2026-12-31",
       "availability": "https://schema.org/InStock",
       "url": "https://omniwtms.com/pricing",
       "priceSpecification": {
         "@type": "UnitPriceSpecification",
-        "price": "999",
+        "price": "699",
         "priceCurrency": "GBP",
         "unitText": "MONTH"
       },
-      "description": "Advanced WMS & TMS with additional warehouses, API integrations, and priority support."
+      "description": "Advanced WMS & TMS for scaling 3PLs and regional distribution firms. Up to 10,000 deliveries/month, 25 users, multi-warehouse, 500GB storage. Priority support. One-time £399 setup fee."
     },
     {
       "@type": "Offer",
       "name": "OmniWTMS Enterprise",
-      "price": "0",
+      "price": "1200",
       "priceCurrency": "GBP",
       "availability": "https://schema.org/InStock",
       "url": "https://omniwtms.com/pricing",
-      "description": "Custom enterprise pricing with dedicated account management, custom integrations, and SLA guarantees."
+      "description": "Enterprise WMS & TMS for large 3PLs and national distributors. £1,200/mo. Unlimited deliveries, users, and warehouses. Dedicated account manager, custom integrations, SLA guarantee."
     }
   ]
 };
@@ -88,7 +88,7 @@ const faqSchema = {
     {
       "@type": "Question",
       "name": "How much does OmniWTMS cost?",
-      "acceptedAnswer": { "@type": "Answer", "text": "OmniWTMS starts from £599/month with no setup fees and no long-term contracts. All core WMS and TMS features are included in every plan. Cancel anytime with 30 days notice." }
+      "acceptedAnswer": { "@type": "Answer", "text": "OmniWTMS starts from £349/month (Growth plan). A one-time setup fee applies based on your business size: £299 for small operations (1 warehouse), £699 for medium (2–3 warehouses), and £2,500 for 3PL/Enterprise. This covers onboarding, data migration, courier integrations, and system configuration. No long-term contracts — cancel anytime with 30 days notice." }
     },
     {
       "@type": "Question",
@@ -98,7 +98,7 @@ const faqSchema = {
     {
       "@type": "Question",
       "name": "Are there any setup fees or hidden costs?",
-      "acceptedAnswer": { "@type": "Answer", "text": "No setup fees, no hidden costs. Data migration, onboarding training, carrier integrations, and UK-based support are all included in your monthly subscription." }
+      "acceptedAnswer": { "@type": "Answer", "text": "There is a one-time setup fee: £299 for Starter and £699 for Growth. This covers your dedicated onboarding session, data migration, courier integrations, and full system configuration. There are no other hidden costs — UK support is included in your monthly subscription." }
     },
     {
       "@type": "Question",

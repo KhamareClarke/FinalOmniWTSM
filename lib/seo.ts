@@ -108,8 +108,8 @@ export const pageConfigs = {
     keywords: ['warehouse management system UK', 'transport management software', 'logistics automation', 'AI warehouse system']
   },
   pricing: {
-    title: 'Transparent UK SaaS Pricing - No Setup Fees',
-    description: 'Simple, transparent pricing for OmniWTMS. No setup fees, cancel anytime, all features included. Compare plans and book your free demo today.',
+    title: 'Transparent Pricing - OmniWTMS',
+    description: 'Simple, transparent pricing for OmniWTMS. Growth £349/mo, Pro £699/mo, Enterprise £1,200/mo. One-time setup fee. Cancel anytime. All features included.',
     keywords: ['warehouse management pricing', 'logistics software cost', 'WMS pricing UK', 'transport management price']
   },
   features: {

@@ -195,7 +195,7 @@ export default function RootLayout({
               },
               "offers": {
                 "@type": "Offer",
-                "price": "599",
+                "price": "349",
                 "priceCurrency": "GBP",
                 "priceValidUntil": "2026-12-31",
                 "availability": "https://schema.org/InStock",
@@ -322,7 +322,7 @@ export default function RootLayout({
                     "@type": "Offer",
                     "itemOffered": {
                       "@type": "Service",
-                      "name": "OmniWTMS Starter"
+                      "name": "OmniWTMS Growth"
                     },
                     "price": "599",
                     "priceCurrency": "GBP",

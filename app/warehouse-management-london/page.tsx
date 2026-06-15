@@ -47,7 +47,7 @@ export default function LocationPage() {
         "name": loc.region
       }
     },
-    "offers": { "@type": "Offer", "price": "599", "priceCurrency": "GBP", "priceValidUntil": "2026-12-31" },
+    "offers": { "@type": "Offer", "price": "349", "priceCurrency": "GBP", "priceValidUntil": "2026-12-31" },
     "aggregateRating": { "@type": "AggregateRating", "ratingValue": "4.9", "ratingCount": "250" }
   };
 
